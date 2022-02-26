@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\pizza order</_PublishTargetUrl>
+    <History>True|2022-02-24T16:29:54.4788352Z;True|2022-02-24T21:13:00.5627662+05:00;True|2022-02-24T20:23:25.9984110+05:00;</History>
+  </PropertyGroup>
+</Project>
